@@ -1,8 +1,12 @@
 Contains dataset of international government actions related to the spread of COVID-19:
   https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm
 
-Contains dataset of cases, recoveries, and deaths over time (international)
+Contains dataset of cases, recoveries, and deaths over time (international):
   https://github.com/CSSEGISandData/COVID-19/tree/master/csse_covid_19_data/csse_covid_19_time_series
+
+
+Contains Google Mobility data:
+	https://www.google.com/covid19/mobility/
 
 use mobility, case/mortality, and gov. actions to...
 	evaluate how mobility/policies impact cases/deaths
