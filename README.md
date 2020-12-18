@@ -1,4 +1,9 @@
 # DM-project-5523
+Files: 
+1. Dataset preparation: 
+2. Classifiers flattening: 
+3. Classifiers safe VS unsafe: Classifiers_Safe VS Unsafe.ipynb
+4. Clustering:
 
 References:
 1. World Health Organization. (2020). Public Health and Social Measures Data Set [data file and codebook]. Available from World Health Organization Website : https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm
