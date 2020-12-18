@@ -1,9 +1,10 @@
 # DM-project-5523
 Files: 
-1. Dataset preparation: 
+1. Dataset preparation: Dataset-Generator.ipynb , data_collator.py 
 2. Classifiers flattening: 
 3. Classifiers safe VS unsafe: Classifiers_Safe VS Unsafe.ipynb
-4. Clustering:
+4. Clustering:Clustering.ipynb
+5. Clustering Dataset: US_states_policies_mobility.csv
 
 References:
 1. World Health Organization. (2020). Public Health and Social Measures Data Set [data file and codebook]. Available from World Health Organization Website : https://www.who.int/emergencies/diseases/novel-coronavirus-2019/phsm
