@@ -1,7 +1,7 @@
 # DM-project-5523
 Files: 
 1. Dataset preparation: Dataset-Generator.ipynb , data_collator.py 
-2. Classifiers flattening: 
+2. Classifiers flattening: final_project_ensemble_model.ipynb
 3. Classifiers safe VS unsafe: Classifiers_Safe VS Unsafe.ipynb
 4. Clustering:Clustering.ipynb
 5. Clustering Dataset: US_states_policies_mobility.csv
